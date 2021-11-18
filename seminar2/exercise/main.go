@@ -7,6 +7,7 @@ import(
 	_ "image/jpeg"
 	"image/png"
 	"os"
+	"math"
 )
 
 func readImage(path string) (*image.NRGBA, error) {
@@ -70,7 +71,7 @@ func (k *Kernel) EvalPixel(in *image.NRGBA, x, y int) color.RGBA {
 }
 
 func Round(f float64) int {
-	return int(f + 0.5)
+	return int(math.Round(f))
 }
 
 func (k *Kernel) Apply(in *image.NRGBA) *image.NRGBA {
@@ -107,6 +108,7 @@ func main() {
 	}
 	*/
 
+	/*
 	c2 := 1.0/25.0
 	k := Kernel{
 		Modifiers: []float64{
@@ -118,6 +120,17 @@ func main() {
 		},
 		Width: 5,
 		Height: 5,
+	}
+	*/
+
+	k := Kernel{
+		Modifiers: []float64{
+			 0, -1,  0,
+			-1,  5, -1,
+			 0, -1,  0,
+		},
+		Width: 3,
+		Height: 3,
 	}
 
 	/*
@@ -152,12 +165,14 @@ func main() {
 
 	out := k.Apply(img)
 
+	/*
 	// Vroom vroom
 	for i:= 0; i < 20; i++ {
 		out = k.Apply(out)
 	}
+	*/
 
-	err = writeImage("let_it_blur.png", out)
+	err = writeImage("let_it_sharpen.png", out)
 	if err != nil {
 		panic(err)
 	}
