@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  6 DEC 2021 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  6 DEC 2021 10:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1122,22 +1122,33 @@ Overfull \hbox (6.89923pt too wide) in paragraph at lines 474--476
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[14 <./to_detect_2_1.jpg> <./to_detect_2_2.jpg>] [15] [16]
-Overfull \hbox (2.59428pt too wide) in paragraph at lines 493--493
+[14 <./to_detect_2_1.jpg> <./to_detect_2_2.jpg>]
+<./stitched.jpg, id=81, 680.5425pt x 604.2575pt>
+File: ./stitched.jpg Graphic file (type jpg)
+<use ./stitched.jpg>
+Package pdftex.def Info: ./stitched.jpg  used on input line 493.
+(pdftex.def)             Requested size: 408.32864pt x 362.5573pt.
+
+Overfull \hbox (18.32864pt too wide) in paragraph at lines 493--494
+ [] 
+ []
+
+[15] [16] [17 <./stitched.jpg>]
+Overfull \hbox (2.59428pt too wide) in paragraph at lines 499--499
 []\OT1/cmr/m/n/12 Scott E. Fahlman and Chris-tian Lebiere. \OT1/cmr/m/it/12 The
  Cascade-Correlation Learn-
  []
 
-[17] (build//main.aux)
+[18] (build//main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34787 strings out of 478994
- 839743 string characters out of 5864751
- 1738423 words of memory out of 5000000
- 51743 multiletter control sequences out of 15000+600000
+ 34793 strings out of 478994
+ 839844 string characters out of 5864751
+ 1739423 words of memory out of 5000000
+ 51748 multiletter control sequences out of 15000+600000
  410698 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  102i,7n,102p,1058b,1644s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1151,10 +1162,10 @@ dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.
 pfb>
-Output written on build//main.pdf (18 pages, 2535420 bytes).
+Output written on build//main.pdf (19 pages, 2629960 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 131 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 88 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
