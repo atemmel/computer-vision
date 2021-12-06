@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  23 NOV 2021 16:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.5.24)  6 DEC 2021 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -568,6 +568,268 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks43
 \@floatcapt=\box66
 )
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count318
+
+(/usr/share/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count319
+\c@listtotal=\count320
+\c@listcount=\count321
+\c@liststart=\count322
+\c@liststop=\count323
+\c@citecount=\count324
+\c@citetotal=\count325
+\c@multicitecount=\count326
+\c@multicitetotal=\count327
+\c@instcount=\count328
+\c@maxnames=\count329
+\c@minnames=\count330
+\c@maxitems=\count331
+\c@minitems=\count332
+\c@citecounter=\count333
+\c@maxcitecounter=\count334
+\c@savedcitecounter=\count335
+\c@uniquelist=\count336
+\c@uniquename=\count337
+\c@refsection=\count338
+\c@refsegment=\count339
+\c@maxextratitle=\count340
+\c@maxextratitleyear=\count341
+\c@maxextraname=\count342
+\c@maxextradate=\count343
+\c@maxextraalpha=\count344
+\c@abbrvpenalty=\count345
+\c@highnamepenalty=\count346
+\c@lownamepenalty=\count347
+\c@maxparens=\count348
+\c@parenlevel=\count349
+\blx@tempcnta=\count350
+\blx@tempcntb=\count351
+\blx@tempcntc=\count352
+\blx@maxsection=\count353
+\blx@maxsegment@0=\count354
+\blx@notetype=\count355
+\blx@parenlevel@text=\count356
+\blx@parenlevel@foot=\count357
+\blx@sectionciteorder@0=\count358
+\blx@entrysetcounter=\count359
+\blx@biblioinstance=\count360
+\labelnumberwidth=\skip54
+\labelalphawidth=\skip55
+\biblabelsep=\skip56
+\bibitemsep=\skip57
+\bibnamesep=\skip58
+\bibinitsep=\skip59
+\bibparsep=\skip60
+\bibhang=\skip61
+\blx@bcfin=\read6
+\blx@bcfout=\write4
+\blx@langwohyphens=\language88
+\c@mincomprange=\count361
+\c@maxcomprange=\count362
+\c@mincompwidth=\count363
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'ieee.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count364
+\c@savedafterword=\count365
+\c@annotator=\count366
+\c@savedannotator=\count367
+\c@author=\count368
+\c@savedauthor=\count369
+\c@bookauthor=\count370
+\c@savedbookauthor=\count371
+\c@commentator=\count372
+\c@savedcommentator=\count373
+\c@editor=\count374
+\c@savededitor=\count375
+\c@editora=\count376
+\c@savededitora=\count377
+\c@editorb=\count378
+\c@savededitorb=\count379
+\c@editorc=\count380
+\c@savededitorc=\count381
+\c@foreword=\count382
+\c@savedforeword=\count383
+\c@holder=\count384
+\c@savedholder=\count385
+\c@introduction=\count386
+\c@savedintroduction=\count387
+\c@namea=\count388
+\c@savednamea=\count389
+\c@nameb=\count390
+\c@savednameb=\count391
+\c@namec=\count392
+\c@savednamec=\count393
+\c@translator=\count394
+\c@savedtranslator=\count395
+\c@shortauthor=\count396
+\c@savedshortauthor=\count397
+\c@shorteditor=\count398
+\c@savedshorteditor=\count399
+\c@labelname=\count400
+\c@savedlabelname=\count401
+\c@institution=\count402
+\c@savedinstitution=\count403
+\c@lista=\count404
+\c@savedlista=\count405
+\c@listb=\count406
+\c@savedlistb=\count407
+\c@listc=\count408
+\c@savedlistc=\count409
+\c@listd=\count410
+\c@savedlistd=\count411
+\c@liste=\count412
+\c@savedliste=\count413
+\c@listf=\count414
+\c@savedlistf=\count415
+\c@location=\count416
+\c@savedlocation=\count417
+\c@organization=\count418
+\c@savedorganization=\count419
+\c@origlocation=\count420
+\c@savedoriglocation=\count421
+\c@origpublisher=\count422
+\c@savedorigpublisher=\count423
+\c@publisher=\count424
+\c@savedpublisher=\count425
+\c@language=\count426
+\c@savedlanguage=\count427
+\c@origlanguage=\count428
+\c@savedoriglanguage=\count429
+\c@pageref=\count430
+\c@savedpageref=\count431
+\shorthandwidth=\skip62
+\shortjournalwidth=\skip63
+\shortserieswidth=\skip64
+\shorttitlewidth=\skip65
+\shortauthorwidth=\skip66
+\shorteditorwidth=\skip67
+\locallabelnumberwidth=\skip68
+\locallabelalphawidth=\skip69
+\localshorthandwidth=\skip70
+\localshortjournalwidth=\skip71
+\localshortserieswidth=\skip72
+\localshorttitlewidth=\skip73
+\localshortauthorwidth=\skip74
+\localshorteditorwidth=\skip75
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count432
+\c@textcitetotal=\count433
+\c@textcitemaxnames=\count434
+\c@biburlbigbreakpenalty=\count435
+\c@biburlbreakpenalty=\count436
+\c@biburlnumpenalty=\count437
+\c@biburlucpenalty=\count438
+\c@biburllcpenalty=\count439
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count440
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count441
+\c@bbx:relatedtotal=\count442
+))
+Package biblatex Info: Trying to load citation style 'ieee'...
+Package biblatex Info: ... file 'ieee.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+File: ieee.cbx 2020/12/29 v1.3d biblatex citation style
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count443
+\c@cbx@tempcntb=\count444
+\c@cbx@tempcntc=\count445
+\c@cbx@tempcntd=\count446
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\cites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/datavisuali
 zation/tikzlibrarydatavisualization.code.tex
 File: tikzlibrarydatavisualization.code.tex 2020/12/27 v3.1.8b (3.1.8b)
@@ -576,12 +838,12 @@ File: tikzlibrarydatavisualization.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 tex
 File: pgfmoduledatavisualization.code.tex 2020/12/27 v3.1.8b (3.1.8b)
  (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleoo.code.tex
-\pgfoo@objectcount=\count317
-\pgfoothis@count=\count318
+\pgfoo@objectcount=\count447
+\pgfoothis@count=\count448
 \pgfoo@toks=\toks44
 )
-\pgf@lib@dv@cache@count=\count319
-\pgf@lib@dv@cache@count=\count320
+\pgf@lib@dv@cache@count=\count449
+\pgf@lib@dv@cache@count=\count450
 )
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
 backgrounds.code.tex
@@ -589,48 +851,65 @@ File: tikzlibrarybackgrounds.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@layerbox@background=\box67
 \pgf@layerboxsaved@background=\box68
 )
-\tikzdvvisualizercounter=\count321
+\tikzdvvisualizercounter=\count451
 )
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count452
+\@quotereset=\count453
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count322
+\l__color_backend_stack_int=\count454
 \l__pdf_internal_box=\box69
 )
 (build//main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-\c@lstlisting=\count323
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+\c@lstlisting=\count455
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count324
+\scratchcounter=\count456
 \scratchdimen=\dimen278
 \scratchbox=\box70
-\nofMPsegments=\count325
-\nofMParguments=\count326
+\nofMPsegments=\count457
+\nofMParguments=\count458
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count327
+\MPscratchCnt=\count459
 \MPscratchDim=\dimen279
-\MPnumerator=\count328
-\makeMPintoPDFobject=\count329
+\MPnumerator=\count460
+\makeMPintoPDFobject=\count461
 \everyMPtoPDFconversion=\toks46
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
@@ -640,40 +919,242 @@ e
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 30.
+ on input line 33.
 
-[1
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'swedish'...
+Package biblatex Info: ... file 'swedish.lbx' found.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/lbx/swedish.lbx
+File: swedish.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-02-18 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout4 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+
+(build//main.bbl)
+Package biblatex Info: Reference section=0 on input line 33.
+Package biblatex Info: Reference segment=0 on input line 33.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 <./pts_1.png, id=11, 462.528pt x 346.896pt>
 File: ./pts_1.png Graphic file (type png)
 <use ./pts_1.png>
-Package pdftex.def Info: ./pts_1.png  used on input line 40.
+Package pdftex.def Info: ./pts_1.png  used on input line 43.
 (pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
- [1 <./pts_1.png>]
+
+[1 <./pts_1.png>]
 <./pts_2.png, id=19, 462.528pt x 346.896pt>
 File: ./pts_2.png Graphic file (type png)
 <use ./pts_2.png>
-Package pdftex.def Info: ./pts_2.png  used on input line 50.
+Package pdftex.def Info: ./pts_2.png  used on input line 53.
 (pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./voting.png, id=20, 346.896pt x 346.896pt>
+File: ./voting.png Graphic file (type png)
+<use ./voting.png>
+Package pdftex.def Info: ./voting.png  used on input line 62.
+(pdftex.def)             Requested size: 277.51717pt x 277.51717pt.
+ [2 <./pts_2.png>] [3 <./voting.png>]
+<./harris_out_1.png, id=29, 604.2575pt x 340.27126pt>
+File: ./harris_out_1.png Graphic file (type png)
+<use ./harris_out_1.png>
+Package pdftex.def Info: ./harris_out_1.png  used on input line 83.
+(pdftex.def)             Requested size: 181.27864pt x 102.08215pt.
+<./harris_out_2.png, id=30, 604.2575pt x 340.27126pt>
+File: ./harris_out_2.png Graphic file (type png)
+<use ./harris_out_2.png>
+Package pdftex.def Info: ./harris_out_2.png  used on input line 84.
+(pdftex.def)             Requested size: 181.27864pt x 102.08215pt.
 
-[2 <./pts_2.png>] (build//main.aux) ) 
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) [4 <./harris_out_1.png (PNG copy)> <./harris_out_2.png (PNG copy)>]
+Overfull \vbox (20.23328pt too high) has occurred while \output is active []
+
+
+[5]
+<./sift_out_1.png, id=39, 604.2575pt x 340.27126pt>
+File: ./sift_out_1.png Graphic file (type png)
+<use ./sift_out_1.png>
+Package pdftex.def Info: ./sift_out_1.png  used on input line 176.
+(pdftex.def)             Requested size: 181.27864pt x 102.08215pt.
+<./sift_out_2.png, id=40, 604.2575pt x 340.27126pt>
+File: ./sift_out_2.png Graphic file (type png)
+<use ./sift_out_2.png>
+Package pdftex.def Info: ./sift_out_2.png  used on input line 177.
+(pdftex.def)             Requested size: 181.27864pt x 102.08215pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+Overfull \vbox (23.96544pt too high) has occurred while \output is active []
+
+
+[7 <./sift_out_1.png (PNG copy)> <./sift_out_2.png (PNG copy)>]
+Overfull \hbox (0.59924pt too wide) in paragraph at lines 245--247
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<./transform1.png, id=49, 462.528pt x 346.896pt>
+File: ./transform1.png Graphic file (type png)
+<use ./transform1.png>
+Package pdftex.def Info: ./transform1.png  used on input line 265.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+[8] [9 <./transform1.png>]
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+316.
+ (/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+[10]
+<./stereo_stats.png, id=60, 621.07031pt x 263.48438pt>
+File: ./stereo_stats.png Graphic file (type png)
+<use ./stereo_stats.png>
+Package pdftex.def Info: ./stereo_stats.png  used on input line 329.
+(pdftex.def)             Requested size: 310.5344pt x 131.74185pt.
+<./scene1.row3.col3.png, id=61, 385.44pt x 289.08pt>
+File: ./scene1.row3.col3.png Graphic file (type png)
+<use ./scene1.row3.col3.png>
+Package pdftex.def Info: ./scene1.row3.col3.png  used on input line 340.
+(pdftex.def)             Requested size: 192.71953pt x 144.53964pt.
+<./scene1.row3.col4.png, id=62, 385.44pt x 289.08pt>
+File: ./scene1.row3.col4.png Graphic file (type png)
+<use ./scene1.row3.col4.png>
+Package pdftex.def Info: ./scene1.row3.col4.png  used on input line 341.
+(pdftex.def)             Requested size: 192.71953pt x 144.53964pt.
+ [11 <./stereo_stats.png (PNG copy)>]
+<./out_sq_err.png, id=67, 385.44pt x 289.08pt>
+File: ./out_sq_err.png Graphic file (type png)
+<use ./out_sq_err.png>
+Package pdftex.def Info: ./out_sq_err.png  used on input line 348.
+(pdftex.def)             Requested size: 192.71953pt x 144.53964pt.
+<./out_abs_err.png, id=68, 385.44pt x 289.08pt>
+File: ./out_abs_err.png Graphic file (type png)
+<use ./out_abs_err.png>
+Package pdftex.def Info: ./out_abs_err.png  used on input line 349.
+(pdftex.def)             Requested size: 192.71953pt x 144.53964pt.
+
+Overfull \hbox (25.7992pt too wide) in paragraph at lines 365--366
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+
+ []
+
+
+Overfull \hbox (19.4992pt too wide) in paragraph at lines 374--375
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (13.19922pt too wide) in paragraph at lines 377--378
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (6.89923pt too wide) in paragraph at lines 378--379
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.09918pt too wide) in paragraph at lines 390--391
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (38.39917pt too wide) in paragraph at lines 391--393
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[12 <./scene1.row3.col3.png> <./scene1.row3.col4.png> <./out_sq_err.png (PNG co
+py)> <./out_abs_err.png (PNG copy)>]
+<./to_detect_2_1.jpg, id=73, 340.27126pt x 604.2575pt>
+File: ./to_detect_2_1.jpg Graphic file (type jpg)
+<use ./to_detect_2_1.jpg>
+Package pdftex.def Info: ./to_detect_2_1.jpg  used on input line 404.
+(pdftex.def)             Requested size: 170.13521pt x 302.128pt.
+<./to_detect_2_2.jpg, id=74, 340.27126pt x 604.2575pt>
+File: ./to_detect_2_2.jpg Graphic file (type jpg)
+<use ./to_detect_2_2.jpg>
+Package pdftex.def Info: ./to_detect_2_2.jpg  used on input line 405.
+(pdftex.def)             Requested size: 170.13521pt x 302.128pt.
+ [13]
+Overfull \hbox (0.59924pt too wide) in paragraph at lines 432--433
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (0.59924pt too wide) in paragraph at lines 470--471
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (19.4992pt too wide) in paragraph at lines 471--473
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (6.89923pt too wide) in paragraph at lines 474--476
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[14 <./to_detect_2_1.jpg> <./to_detect_2_2.jpg>] [15] [16]
+Overfull \hbox (2.59428pt too wide) in paragraph at lines 493--493
+[]\OT1/cmr/m/n/12 Scott E. Fahlman and Chris-tian Lebiere. \OT1/cmr/m/it/12 The
+ Cascade-Correlation Learn-
+ []
+
+[17] (build//main.aux)
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 26328 strings out of 478994
- 680129 string characters out of 5864751
- 1080474 words of memory out of 5000000
- 43413 multiletter control sequences out of 15000+600000
- 409416 words of font info for 48 fonts, out of 8000000 for 9000
+ 34787 strings out of 478994
+ 839743 string characters out of 5864751
+ 1738423 words of memory out of 5000000
+ 51743 multiletter control sequences out of 15000+600000
+ 410698 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,7n,102p,717b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
-share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on build//main.pdf (3 pages, 115247 bytes).
+ 102i,7n,102p,1058b,1644s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></us
+r/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmtt12.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.
+pfb>
+Output written on build//main.pdf (18 pages, 2535420 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 126 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 88 words of extra memory for PDF output out of 10000 (max. 10000000)
 

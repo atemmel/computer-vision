@@ -1,0 +1,104 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{feat-comp}{article}{}
+      \name{author}{3}{}{%
+        {{hash=bd2fbfca24407208401a45a6e855b0c4}{%
+           family={Kavitha},
+           familyi={K\bibinitperiod},
+           given={B.R.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=ed85d96b217e721053cc7d20920ce38a}{%
+           family={G},
+           familyi={G\bibinitperiod},
+           given={Ramya},
+           giveni={R\bibinitperiod}}}%
+        {{hash=40944678402171651975d3d1ccb7aac2}{%
+           family={Govindaraj},
+           familyi={G\bibinitperiod},
+           given={Priya},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{08e354915985092c6798e3dfa2338db5}
+      \strng{fullhash}{08e354915985092c6798e3dfa2338db5}
+      \strng{bibnamehash}{08e354915985092c6798e3dfa2338db5}
+      \strng{authorbibnamehash}{08e354915985092c6798e3dfa2338db5}
+      \strng{authornamehash}{08e354915985092c6798e3dfa2338db5}
+      \strng{authorfullhash}{08e354915985092c6798e3dfa2338db5}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Innovative Technology and Exploring Engineering}
+      \field{month}{01}
+      \field{title}{Performance comparison of various feature descriptors in object category detection application using SVM classifier}
+      \field{volume}{8}
+      \field{year}{2019}
+      \field{pages}{461\bibrangedash 464}
+      \range{pages}{4}
+    \endentry
+    \entry{crestereo}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Reference list of currently published stereo methods}
+      \verb{urlraw}
+      \verb https://vision.middlebury.edu/stereo/eval3/referenceList.php
+      \endverb
+      \verb{url}
+      \verb https://vision.middlebury.edu/stereo/eval3/referenceList.php
+      \endverb
+    \endentry
+    \entry{cascade-correlation}{online}{}
+      \name{author}{2}{}{%
+        {{hash=eb26f2278cddb1d2385197e1c264098b}{%
+           family={Fahlman},
+           familyi={F\bibinitperiod},
+           given={Scott\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e7c8de36e372ca3e8427d30c5332a303}{%
+           family={Lebiere},
+           familyi={L\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{60cc21da032921c5a8babc348cf2504c}
+      \strng{fullhash}{60cc21da032921c5a8babc348cf2504c}
+      \strng{bibnamehash}{60cc21da032921c5a8babc348cf2504c}
+      \strng{authorbibnamehash}{60cc21da032921c5a8babc348cf2504c}
+      \strng{authornamehash}{60cc21da032921c5a8babc348cf2504c}
+      \strng{authorfullhash}{60cc21da032921c5a8babc348cf2504c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Cascade-Correlation Learning Architecture}
+      \verb{urlraw}
+      \verb https://proceedings.neurips.cc/paper/1989/file/69adc1e107f7f7d035d7baf04342e1ca-Paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://proceedings.neurips.cc/paper/1989/file/69adc1e107f7f7d035d7baf04342e1ca-Paper.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
