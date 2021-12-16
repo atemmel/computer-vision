@@ -28,13 +28,20 @@ p = [
     (0, 1),
 ]
 
-should_be_inside = (0, 0.5)
-should_be_outside = (1, -0.5)
+should_be_inside = [(0, 0.5), (0, 0.2), (0.3, 0.1)]
+should_be_outside = [(1, -0.5), (0.5, 0.5), (0, -0.5)]
 
-inside_plot_data = 'go' if is_inside(p[0], p[1], p[2], should_be_inside) else 'ro'
-outside_plot_data = 'go' if is_inside(p[0], p[1], p[2], should_be_outside) else 'ro'
-plt.plot([should_be_inside[0]], [should_be_inside[1]], inside_plot_data)
-plt.plot([should_be_outside[0]], [should_be_outside[1]], outside_plot_data)
+for inside in should_be_inside:
+    inside_plot_data = 'go' if is_inside(p[0], p[1], p[2], inside) else 'ro'
+    plt.plot([inside[0]], [inside[1]], inside_plot_data)
+plt.plot([p[0][0], p[1][0]], [p[0][1], p[1][1]], 'b')
+plt.plot([p[1][0], p[2][0]], [p[1][1], p[2][1]], 'b')
+plt.plot([p[2][0], p[0][0]], [p[2][1], p[0][1]], 'b')
+plt.show()
+
+for outside in should_be_outside:
+    outside_plot_data = 'go' if is_inside(p[0], p[1], p[2], outside) else 'ro'
+    plt.plot([outside[0]], [outside[1]], outside_plot_data)
 plt.plot([p[0][0], p[1][0]], [p[0][1], p[1][1]], 'b')
 plt.plot([p[1][0], p[2][0]], [p[1][1], p[2][1]], 'b')
 plt.plot([p[2][0], p[0][0]], [p[2][1], p[0][1]], 'b')
