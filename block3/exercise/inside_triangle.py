@@ -9,16 +9,16 @@ def dot(a, b):
 
 def is_inside(p0, p1, p2, pt):
     t = sub(p1, p0)
-    n = (t[0], -t[1])
-    inside_check_0 = dot(sub(pt, p0), n) >= 0
+    n = (t[1], -t[0])
+    inside_check_0 = dot(sub(pt, p0), n) < 0
 
-    t = sub(p1, p2)
-    n = (t[0], -t[1])
-    inside_check_1 = dot(sub(pt, p1), n) >= 0
+    t = sub(p2, p1)
+    n = (t[1], -t[0])
+    inside_check_1 = dot(sub(pt, p1), n) < 0
 
-    t = sub(p2, p0)
-    n = (t[0], -t[1])
-    inside_check_2 = dot(sub(pt, p2), n) >= 0
+    t = sub(p0, p2)
+    n = (t[1], -t[0])
+    inside_check_2 = dot(sub(pt, p2), n) < 0
 
     return inside_check_0 and inside_check_1 and inside_check_2
 

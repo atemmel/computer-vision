@@ -9,7 +9,6 @@ i_a = ambient light
 i_d = diffuse light
 i_s = specular light
 a = shininess constant
-
 """
 def phong(k_a, k_d, k_s, i_a, i_d, i_l, a, phi):
     return k_a * i_a + k_d * i_d + k_s * (np.cos(phi) ** a) * i_l
