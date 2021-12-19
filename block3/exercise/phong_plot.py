@@ -21,7 +21,7 @@ k_a = 2.
 k_d = 2.
 k_s = 2.
 
-a = np.linspace(0.0, 5.0, num=20)
+a = np.linspace(0.0, 10.0, num=20)
 phi = np.linspace(0.0, np.pi / 2, num=20)
 
 y0 = [phong(k_a, k_d, k_s, i_a, i_d, i_l, x, np.pi / 4.) for x in a]
