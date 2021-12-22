@@ -73,9 +73,9 @@ scene = rc.Scene(meshes=[monkey])
 @window.event
 def on_key_press(symbol, _):
     global x
-    if symbol == key.UP:
+    if symbol == key.RIGHT:
        x += 0.05
-    elif symbol == key.DOWN:
+    elif symbol == key.LEFT:
        x -= 0.05
     scene.camera.position.xyz = x, 0, 0
 
